@@ -14,7 +14,7 @@ namespace challenging_mechanics_8_ushapant12345
     {
         public Form1()
         {
-            InitializeComponent();
+            
 
 
 
